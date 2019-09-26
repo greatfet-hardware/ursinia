@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name neighbor)(type KiCad)(uri ${KIPRJMOD}/neighbor.pretty)(options "")(descr ""))
+  (lib (name neighbor)(type KiCad)(uri ${KIPRJMOD}/neighbor.pretty)(options "")(descr "GreatFET neighbor template"))
+  (lib (name OPL_Connectors)(type KiCad)(uri ${KIPRJMOD}/OPL_Kicad_Library/Seeed_Fusion_PCBA_OPL_Component_Library_for_KiCad/OPL_Connector.pretty)(options "")(descr "Seeed Fusion OPL Connectors"))
 )
